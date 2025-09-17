@@ -1,2 +1,2 @@
 # sigma wad
-awd
+aw
